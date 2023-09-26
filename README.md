@@ -30,7 +30,7 @@ This step has 3 parts:
 [Click here](https://github.com/rajmanish31/TikTok-Project/blob/main/Code/Inspect_and_analyse.ipynb) to see python code for above step 1.
 
 ### Step 2: Exploratory data analysis
-In this step, you will examine data provided and prepare it for analysis. You will also design a professional data visualization that tells a story, and will help data-driven decisions for business needs.
+In this step, you will examine data provided and prepare it for analysis.
 
 This step has 4 parts:
 
@@ -46,14 +46,14 @@ This step has 4 parts:
 [Click here](https://github.com/rajmanish31/TikTok-Project/blob/main/Code/EDA.ipynb) to see python code for above step 2.
 
 ### Step 3: Data exploration and hypothesis testing
-In this step, you will explore the data provided and conduct a hypothesis testing.
+In this step, you will explore the data provided and conduct a hypothesis test.
 
 This step has 3 parts:
 
 #### Part 1: Imports and data loading
 * What data packages will be necessary for hypothesis testing?
 
-#### Part 2: Conduct EDA and hypothesis testing
+#### Part 2: Conduct hypothesis testing
 * How did computing descriptive statistics help you analyze your data?
 * How did you formulate your null hypothesis and alternative hypothesis?
 
@@ -69,7 +69,7 @@ In this step, you will build a logistic regression model in Python. Logistic reg
 This step has 3 parts:
 
 #### Part 1: EDA & Checking Model Assumptions
-* What are some purposes of EDA before constructing a logistic regression model?
+* What are some purposes of EDA before constructing a binomial logistic regression model?
 
 #### Part 2: Model Building and evaluation
 * What resources do you find yourself using as you complete this stage?
@@ -81,7 +81,7 @@ This step has 3 parts:
 [Click here](https://github.com/rajmanish31/TikTok-Project/blob/main/Code/Regression_modeling.ipynb) to see python code for above step 4.
 
 ### Step 5: Classifying videos using machine learning
-In this step, you will practice using machine learning techniques to predict on a binary outcome variable.
+In this step, you will practice using tree-based modeling techniques to predict on a binary target class.
 
 This step has 3 parts:
 
